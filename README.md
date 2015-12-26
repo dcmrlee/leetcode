@@ -1,11 +1,8 @@
-####################
-# LeetCode Algorithm
-# Author - lidachao
-# Date - 2015/12/26
-####################
+LeetCode
+========
 
-###############################################
-No: 1
-Title: Two Sum
-WebURL: https://leetcode.com/problems/two-sum/
-###############################################
+###LeetCode Algorithm
+
+| # | Title | Solution | Difficult |  
+|---|-------|----------|-----------|
+| 1 |[Tow Sum](https://oj.leetcode.com/problems/two-sum/)| [Go]() |Medium|
