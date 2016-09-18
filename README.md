@@ -5,6 +5,9 @@ LeetCode
 
 | # | Title | Solution | Difficult |  
 |---|-------|----------|-----------|
+| 6 |[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| [Go]()|Easy|
+| 5 |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [Go]()|Medium|
+| 4 |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [Go]()|Hard|
 | 3 |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Go]()|Medium|
 | 2 |[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| [Go]()|Medium|
 | 1 |[Tow Sum](https://oj.leetcode.com/problems/two-sum/)| [Go]() |Medium|
