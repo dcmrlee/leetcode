@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficult |  
 |---|-------|----------|-----------|
+| 9 |[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [Go]()|Easy|
 | 8 |[String to Integer](https://leetcode.com/problems/string-to-integer-atoi/)| [Go]()|Easy|
 | 7 |[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Go]()|Easy|
 | 6 |[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| [Go]()|Easy|
