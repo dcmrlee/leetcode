@@ -5,6 +5,8 @@ LeetCode
 
 | # | Title | Solution | Difficult |  
 |---|-------|----------|-----------|
+| 17 |[Letter Combinations of a Phone Number](https://leetcode.com/problems//letter-combinations-of-a-phone-number/)| [Go]()|Medium|
+| 16 |[3Sum Closest](https://leetcode.com/problems/3sum-closest/)| [Go]()|Medium|
 | 15 |[3Sum](https://leetcode.com/problems/3sum/)| [Go]()|Medium|
 | 14 |[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [Go]()|Easy|
 | 13 |[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [Go]()|Easy|
