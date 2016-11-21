@@ -5,6 +5,8 @@ LeetCode
 
 | # | Title | Solution | Difficult |  
 |---|-------|----------|-----------|
+| 20 |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Go]()|Easy|
+| 19 |[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [Go]()|Medium|
 | 18 |[4 Sum](https://leetcode.com/problems/4sum/)| [Go]()|Medium|
 | 17 |[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [Go]()|Medium|
 | 16 |[3Sum Closest](https://leetcode.com/problems/3sum-closest/)| [Go]()|Medium|
