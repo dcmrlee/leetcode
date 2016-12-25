@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficult |  
 |---|-------|----------|-----------|
+| 24 |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [Go]()|Easy|
 | 22 |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Go]()|Medium|
 | 21 |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Go]()|Easy|
 | 20 |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Go]()|Easy|
