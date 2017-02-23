@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficult |  
 |---|-------|----------|-----------|
+| 25 |[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| [Go]()|Hard|
 | 24 |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [Go]()|Easy|
 | 22 |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Go]()|Medium|
 | 21 |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Go]()|Easy|
