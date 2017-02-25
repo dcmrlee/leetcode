@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficult |  
 |---|-------|----------|-----------|
+| 26 |Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Go]()|Easy|
 | 25 |[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| [Go]()|Hard|
 | 24 |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [Go]()|Easy|
 | 22 |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Go]()|Medium|
