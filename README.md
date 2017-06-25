@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficult |  
 |---|-------|----------|-----------|
+| 30 |[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| [Go]()|Easy|
 | 29 |[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)| [Go]()|Easy|
 | 28 |[strStr](https://leetcode.com/problems/implement-strstr/)| [Go]()|Easy|
 | 27 |[Remove Element](https://leetcode.com/problems/remove-element/)| [Go]()|Easy|
