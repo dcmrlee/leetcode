@@ -5,8 +5,9 @@ LeetCode
 
 | # | Title | Solution | Difficult |  
 |---|-------|----------|-----------|
-| 30 |[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| [Go]()|Easy|
-| 29 |[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)| [Go]()|Easy|
+| 31 |[Next Permutation](https://leetcode.com/problems/next-permutation/)| [Go]()|Medium|
+| 30 |[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| [Go]()|Hard|
+| 29 |[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)| [Go]()|Medium|
 | 28 |[strStr](https://leetcode.com/problems/implement-strstr/)| [Go]()|Easy|
 | 27 |[Remove Element](https://leetcode.com/problems/remove-element/)| [Go]()|Easy|
 | 26 |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Go]()|Easy|
